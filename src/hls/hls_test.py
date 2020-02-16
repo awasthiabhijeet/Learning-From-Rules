@@ -36,26 +36,42 @@ class HLSTest():
                 np.array(save_preds),
                 np.array(save_d))
 
-    def test_f(self, datafeeder, log_output=False, data_type='test_f', save_filename=None):
+    def test_f(self, datafeeder, log_output=False, data_type='test_f', save_filename=None, use_joint_f_w=False):
         sess = self.hls.sess
         with sess.as_default():
             # Test model
-            probs = tf.nn.softmax(self.hls.f_d_logits)  # Apply softmax to logits
-            pred = tf.argmax(probs, 1)
+            if use_joint_f_w:
+                joint_score = self.hls.joint_f_w_score
+                pred = tf.argmax(joint_score, 1)
+            else:
+                probs = tf.nn.softmax(self.hls.f_d_logits)  # Apply softmax to logits
+                pred = tf.argmax(probs, 1)
             labels = tf.argmax(self.hls.f_d_labels, 1)
             correct_prediction = tf.equal(pred, labels)
+            
+            classifier_loss = self.hls.f_d_loss
             # Calculate accuracy
             accuracy = tf.reduce_mean(tf.cast(correct_prediction, "float"))
             test_x, test_y, l, m, d = datafeeder.get_f_test_data(data_type)
+            test_L = np.argmax(test_y,-1)
+            test_L = np.expand_dims(test_L,-1)
+            test_l = l
+            test_m = m
+            test_d = d
             feed_dict = {
                     self.hls.f_x: test_x,
-                    self.hls.f_d_labels: test_y
+                    self.hls.f_d_labels: test_y,
+                    self.hls.f_d_U_x: test_x,
+                    self.hls.f_d_U_l: test_l,
+                    self.hls.f_d_U_m: test_m,
+                    self.hls.f_d_U_L: test_L,
+                    self.hls.f_d_U_d: test_d,
                     }
             try:
                 merge_dict_a_into_b(self.hls.dropout_test_dict,feed_dict)
             except KeyError:
                 pass
-            acc, pred1, labels1 = sess.run([accuracy, pred, labels], feed_dict=feed_dict)
+            acc, pred1, labels1, classifier_loss = sess.run([accuracy, pred, labels, classifier_loss], feed_dict=feed_dict)
             precision, recall, f1_score, support = precision_recall_fscore_support(labels1, pred1)
             accuracy1 = metrics_utils.compute_accuracy(support, recall)
 
@@ -68,6 +84,7 @@ class HLSTest():
                 print('test_f: support: ', support)
                 print('test_f: accuracy: ', accuracy1)
                 print('test_f: avg_f1_score: ',np.mean(f1_score))
+                print('test_f: classifier_loss: ', classifier_loss)
 
             return precision, recall, f1_score, support
 

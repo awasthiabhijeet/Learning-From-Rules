@@ -90,14 +90,15 @@ class HighLevelSupervisionNetwork:
     def parse_params(self, config):
         self.f_d_epochs     =   config.f_d_epochs
         self.f_d_U_epochs   = config.f_d_U_epochs
-        self.f_d_adam_lr = config.f_d_adam_lr
-        self.f_d_U_adam_lr = config.f_d_U_adam_lr
+        self.initial_f_d_adam_lr = config.f_d_adam_lr
+        self.initial_f_d_U_adam_lr = config.f_d_U_adam_lr
 
     # Create the train op for training with d only
     def make_f_d_train_ops(self):
         self.f_d_global_step = tf.Variable(0, trainable=False, name='f_d_global_step')
         inc_f_d_global_step = tf.assign_add(self.f_d_global_step, 1)
         self.global_steps[f_d] = self.f_d_global_step
+        self.f_d_adam_lr = tf.placeholder(tf.float32,name='f_d_U_adam_lr')
 
         # [batch size, features]
         self.f_x = tf.placeholder(tf.float32, shape=[None, self.num_features],
@@ -166,7 +167,7 @@ class HighLevelSupervisionNetwork:
             - Note that this is different from rule coverage matrix "m"
             - This matrix defines the rule,example pairs provided as supervision 
         '''
-
+        self.f_d_U_adam_lr = tf.placeholder(tf.float32,name='f_d_U_adam_lr')
         self.f_d_U_x = tf.placeholder(
                 tf.float32,
                 shape=[None, self.num_features],
@@ -201,6 +202,7 @@ class HighLevelSupervisionNetwork:
                                 dropout_keep_prob=self.dropout_keep_prob)
         self.f_d_U_probs = tf.math.softmax(f_logits, axis=-1)
         self.f_d_U_preds = tf.argmax(self.f_d_U_probs, axis=-1)
+        self.joint_f_w_score = self.joint_scores_from_f_and_w(self.f_d_U_weights,self.f_d_U_m,self.f_d_U_probs)
 
         # Do this so that the cross-entropy does not blow for data from U
         # The actual value of cross-entropy for U does not matter since it
@@ -246,6 +248,7 @@ class HighLevelSupervisionNetwork:
             self.f_d_U_implication_loss = LL_phi \
                                         + LL_theta \
                                         + self.config.gamma*implication_loss
+
             with tf.control_dependencies([inc_f_d_U_global_step,  ]):
                 self.f_d_U_implication_op = f_cross_training_optimizer.minimize(
                         self.f_d_U_implication_loss,
@@ -439,7 +442,6 @@ class HighLevelSupervisionNetwork:
         obj = tf.reduce_mean(obj)
         return -obj
 
-
     def get_weights_and_logits_f_d_U(self, x):
         # Need to run the w network for each rule for the same x
         #
@@ -474,3 +476,24 @@ class HighLevelSupervisionNetwork:
         weights = tf.nn.sigmoid(w_logits)
         return weights, w_logits
 
+    def joint_scores_from_f_and_w(self,weights,m,f_probs):
+        num_classes = self.num_classes
+        rule_classes = self.rule_classes
+        #[batch_size, num_rules, 1]
+        weights = tf.expand_dims(weights,-1)
+        weights_mask = tf.to_float(tf.greater(weights,0.5))
+        #[batch_size, num_rules, 1]
+        m = tf.expand_dims(m,-1)
+        m = m*weights_mask
+        #[num_rules, num_classes]
+        one_hot_rule_classes = tf.one_hot(rule_classes,num_classes,dtype=tf.float32)
+        #[1, num_rules, num_classes]
+        one_hot_rule_classes = tf.expand_dims(one_hot_rule_classes,0)
+        #[batch_size, num_rules, num_classes]
+        rule_weight_product = weights * one_hot_rule_classes + (1-weights)*(1-one_hot_rule_classes)
+        sum_rule_firings = tf.reduce_sum(m,1)
+        result = m*rule_weight_product #+ (1-m)
+        #[batch_size, num_classes]
+        result = tf.reduce_sum(result,1)/(sum_rule_firings+1e-20)
+        result = result + f_probs
+        return result    

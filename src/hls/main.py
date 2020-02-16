@@ -76,14 +76,18 @@ if __name__ == '__main__':
         hls.train.train_f_on_d_U(data_feeder, config.f_d_U_epochs, loss_type='label_snorkel')
     elif mode == 'test_f':
         print('Running test_f')
-        hls.test.test_f(data_feeder, log_output=True, save_filename=config.f_infer_out_pickle)
+        hls.test.test_f(data_feeder, log_output=True, 
+                        save_filename=config.f_infer_out_pickle, 
+                        use_joint_f_w=config.use_joint_f_w)
     elif mode == 'test_w':
         print('Running test_w')
         hls.test.test_w(data_feeder, log_output=True, save_filename=config.w_infer_out_pickle+"_test")
     elif mode == 'test_all':
         print('Running all tests')
         print('\ninference on f network ...\n')
-        hls.test.test_f(data_feeder, log_output=True, save_filename=config.f_infer_out_pickle)
+        hls.test.test_f(data_feeder, log_output=True, 
+                        save_filename=config.f_infer_out_pickle,
+                        use_joint_f_w=config.use_joint_f_w)
         print('\ninference on w network...')
         print('we only test on instances covered by atleast one rule\n')
         hls.test.test_w(data_feeder, log_output=True, save_filename=config.w_infer_out_pickle+"_test")

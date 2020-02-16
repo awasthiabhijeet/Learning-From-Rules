@@ -75,6 +75,7 @@ class HLSTrain():
                 for i in range(total_batch):
                     batch_x, batch_y = datafeeder.get_f_d_next_batch()
                     feed_dict = {
+                            self.hls.f_d_adam_lr: self.config.f_d_adam_lr,
                             self.hls.f_x: batch_x,
                             self.hls.f_d_labels: batch_y
                             }
@@ -180,6 +181,7 @@ class HLSTrain():
                             datafeeder.get_f_d_U_next_batch()
 
                     feed_dict={
+                            self.hls.f_d_U_adam_lr: self.config.f_d_U_adam_lr,
                             self.hls.f_d_U_x: batch_x,
                             self.hls.f_d_U_l : batch_l,
                             self.hls.f_d_U_m : batch_m, 

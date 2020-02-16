@@ -113,6 +113,8 @@ def parse_args():
 
     parser.add_argument('--early_stopping_p',default=20,type=int,help='early stopping patience (in epochs)')
 
+    parser.add_argument('--use_joint_f_w', default=False, type=boolean, help='whether to utilize w network during inference')
+
 
     # Print all args
     print("")
