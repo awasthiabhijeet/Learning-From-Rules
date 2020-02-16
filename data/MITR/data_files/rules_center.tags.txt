@@ -1,0 +1,15 @@
+O Amenity Amenity O Location Location 
+O O O O O Cuisine O 
+O O O O Rating Rating O Location Location Location O O Dish 
+O O O Cuisine O O O Price Price Price O Amenity Amenity
+O O O O O Rating Rating Dish Location Location Location
+O O O Location Cuisine O O O Hours Hours 
+O O Cuisine O O O Hours Hours Hours Hours 
+O O O O O O O Location Location Location O O O Rating Rating O O O Amenity Amenity 
+O O O Hours Hours Cuisine O Location Location Location O O 
+O Restaurant_Name Restaurant_Name Hours Hours Hours Hours 
+O O O O Cuisine O O Dish 
+O O O O Price Cuisine O
+O Price O Cuisine O Location Location Location O O Rating Rating 
+O O O Amenity Amenity O Location Location Location Location Location 
+O O O Location Restaurant_Name 

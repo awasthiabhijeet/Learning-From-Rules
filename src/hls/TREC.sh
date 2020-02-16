@@ -11,7 +11,7 @@ VALID_PICKLE_NAME=$8
 U_PICKLE_NAME=$9
 GAMMA=${10}
 LAMDA=${11}
-
+USE_JOINT_f_w=${12} #this flag should be True if you need to use output of rule network while doing inference (See eqn6 in the paper)
 
 DATA_DIR=../../data/TREC
 
@@ -46,4 +46,6 @@ python3.6 -u main.py \
   --f_d_class_sampling_str=$F_D_CLASS_SAMPLING \
   --U_pickle_name=$U_PICKLE_NAME \
   --gamma=$GAMMA \
-  --lamda=$LAMDA
+  --lamda=$LAMDA \
+  --early_stopping_p=5 \
+  --use_joint_f_w=$USE_JOINT_f_w

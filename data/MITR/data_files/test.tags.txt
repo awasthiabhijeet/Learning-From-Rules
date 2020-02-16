@@ -1,0 +1,1522 @@
+O Rating Rating O Location Location Amenity 
+O Cuisine O Location 
+O Cuisine O Hours Hours Hours Location 
+O Location Location O Price O 
+O O Price Cuisine O Location 
+O Rating Cuisine Cuisine Cuisine Location 
+O Rating O O O O Dish O O Price O 
+O O Cuisine O Location 
+O Cuisine O O O Dish Amenity Amenity 
+O O Location Location Location O O Rating Dish O O O O Dish 
+O O Location Location O O O Amenity Amenity 
+O Price O Cuisine O Location Location Location Location 
+O O Hours Hours Hours 
+O O O O O Amenity 
+O O Location O O O O O Dish O O O Price Price Price Price Price 
+O O O Location 
+O Hours Hours Hours O Price O 
+O Amenity O O O O Amenity Amenity 
+O O O O O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O Restaurant_Name Restaurant_Name Restaurant_Name O O O O 
+O O O Hours Hours Cuisine O Location 
+O O O Amenity Amenity Cuisine O Location 
+O O O Cuisine Cuisine O Location Location Location 
+O O O Cuisine Location O O O O Cuisine O Cuisine 
+O O O Cuisine Location 
+O O O Cuisine Location 
+O O O Location O Hours Hours Hours O Hours 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location O O Hours 
+O O O Dish Dish O Location 
+O O O Amenity Amenity O Location Location Location 
+O O O Cuisine O Location Location 
+O O O Cuisine O O O O O Hours Hours Hours Hours Hours Hours 
+O O O O Amenity O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location Location O O O Amenity Amenity Amenity 
+O O O O O O Location Location 
+O O O Amenity O Location Location Location O Price O 
+O O O Amenity Cuisine O O Location Location 
+O O O Cuisine Cuisine O Location Location Location 
+O O O Cuisine Cuisine O O O Amenity Amenity 
+O O O Amenity Amenity O Location Location Location O O O 
+O O O Rating Rating O Location Location 
+O O O Rating Rating O O O Location 
+O O O Amenity O O Dish Location Location 
+O O O O Amenity Amenity O Location Location 
+O O O Rating Cuisine O O Location Location 
+O O O Cuisine O Location Location Location 
+O O O Cuisine O O O Location Location O O Location Location 
+O O O Cuisine O Location Location 
+O O O O O O O O O O O Hours O 
+O O O Cuisine Cuisine O Location Location Location O O Hours Hours Hours 
+O O O Cuisine O O Location Location 
+O O O Cuisine O Location 
+O O O Cuisine O Location Location O O Amenity Amenity Amenity Amenity O Amenity 
+O O O Amenity Amenity O O O 
+O O O Amenity Amenity O Location Location 
+O O O Amenity Amenity O O Amenity Amenity 
+O O O Amenity Amenity O O Amenity Amenity Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Location Location 
+O O O Restaurant_Name O O O O O Location Location Location 
+O O O Price O O Location Location Location O Amenity Amenity Amenity Amenity 
+O O O Rating Rating O O O Location Location Location 
+O O O Amenity O Location O O O O 
+O O O Rating Cuisine O Location Hours Hours Hours 
+O O O O Location O O O Hours Hours Hours 
+O O O O Location Location O O Dish Dish Dish Dish 
+O O O O O O Amenity Amenity O O O 
+O O O O Location Location O O Dish O Dish 
+O O O O Location Location O O Hours Hours Hours 
+O O O O O O Location Location Location O O O Amenity Amenity Amenity Amenity 
+O O O O O O Rating Amenity Amenity O Location Location 
+O O O Price O O O Location Location Location O O Dish 
+O O O O Location O O Cuisine O 
+O O O O O O O Amenity Amenity 
+O O O O O O O O Dish Dish Dish 
+O O O O Location O O Rating Rating O Amenity Amenity Amenity 
+O O O O Location O O Amenity Amenity 
+O O O O O Location Location O O Amenity Amenity O O Amenity 
+O O O O O O Location O O Dish O O Hours Hours Hours Hours 
+O O O O O O Location Location Location Location O O O Amenity Amenity 
+O O O O O Location Location Location Location Location 
+O O O O Hours Hours Hours Hours 
+O O O O O O O Hours Hours 
+O O O O O O Cuisine Cuisine Cuisine O Location 
+O O O O O O O O Amenity Amenity Amenity Amenity Amenity Amenity 
+O O O O O Amenity Amenity Location Location Location 
+O O O O O Amenity Amenity O O Amenity Amenity Location Location 
+O O O O Location Location Location O Amenity Amenity Amenity 
+O O O Cuisine Cuisine Location 
+O O O Cuisine O Location Location Location O O O O Location Location 
+O O O Cuisine O O O Price 
+O O O Dish O Location Location Location O O 
+O O O Cuisine Cuisine O O O O Dish 
+O O O Cuisine O Location Location Location Location 
+O O O Dish O O Rating Rating Location 
+O O O Cuisine O O Location 
+O O O Cuisine Cuisine O O Hours Hours Hours Hours Hours 
+O O O Cuisine O Location Location Location 
+O O O Cuisine O O O O O Amenity Amenity Amenity Amenity Amenity 
+O O O Cuisine O Location 
+O O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name O O Hours Hours Hours Hours 
+O O Amenity Amenity 
+Cuisine O Location Location Location Location 
+O O Cuisine O O O Amenity Amenity 
+Dish O Dish Dish Location Location 
+Rating Cuisine O Location Location Location 
+Dish 
+Restaurant_Name Restaurant_Name Restaurant_Name O 
+Cuisine O Location Location 
+Dish 
+Cuisine O Location Location 
+O Restaurant_Name O Location O O 
+O Cuisine 
+O Restaurant_Name 
+O O Location Cuisine O 
+O O O Amenity Amenity O O O O O Location Location O O Amenity Amenity 
+O O O O Amenity O O O Cuisine O 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O Cuisine Cuisine Cuisine O Location Location Location Location Location Location Location 
+O O O O Rating Cuisine Amenity Location Location Location O O 
+O O O O O Location Location O O Price Price Price 
+O O O Rating Cuisine 
+O O O O Amenity Amenity O Location Location Location Hours Hours Hours Hours 
+O O O O O O Location Cuisine Cuisine O 
+O O O Dish Dish Dish Location Location Location Location Location 
+O O O Dish O Restaurant_Name Restaurant_Name 
+O O O Cuisine Cuisine O O Location 
+O O O Dish O O Amenity Amenity Amenity O Price O 
+O O O O O O O Restaurant_Name O Location Location Location 
+O O O Dish O Location 
+O O Amenity Amenity O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Amenity Amenity 
+O O O O Amenity O O Dish O O Amenity O Amenity Amenity 
+O O O O Cuisine Cuisine O O Amenity Amenity 
+O O O O Price Cuisine O 
+O O O O Cuisine Cuisine O 
+O O O O Rating Rating Restaurant_Name Restaurant_Name Restaurant_Name Hours Hours Hours 
+O O O O Cuisine Cuisine O O Price O 
+O O O O Cuisine O O O Amenity Location Location Location 
+O O O O Cuisine Location 
+O O O O O O O Dish Dish O O Hours O Price Price Price 
+O O O O O O O Dish O Price Price Location O 
+O O O O O Price Price Price Price 
+O O O O Cuisine O 
+O O O O O O O O O O O O Location 
+O O O O Cuisine Cuisine O O Dish 
+O O O O Cuisine Cuisine Cuisine O Location Location 
+O O O O Cuisine O Location 
+O O O O Cuisine O O O Hours O Hours 
+O O O O Cuisine O O O O O Amenity Amenity 
+O O O Restaurant_Name Location Cuisine O O O O O O O 
+O O O Cuisine Cuisine O Location Location Location Location Location Location 
+O O O O O Cuisine O O O Amenity Amenity 
+O O O O O Restaurant_Name O Amenity Amenity Amenity 
+O O O O O Rating O O O Dish 
+O O O O O Amenity Amenity Cuisine O 
+O O O O O Amenity Amenity Cuisine O 
+O O O O O Price O Cuisine O 
+O O O O O Rating Cuisine O O O Amenity 
+O O O O O Price Price Hours O O O Dish 
+O O O O O Dish O 
+O O O O O Cuisine O Amenity Hours Hours 
+O O O O O O Location O O Hours Hours Hours O Dish Dish 
+O O O O O O O O Dish Dish 
+O O O O O O O O O Amenity Amenity Amenity 
+O O O O O O O O O O Price Price Price Price Price 
+O O O O O Cuisine O O O Amenity 
+O O O O Cuisine O O O Amenity Amenity 
+O O O O Restaurant_Name Restaurant_Name O Cuisine Cuisine 
+O O O O O Cuisine O Hours Hours Hours 
+O O O O O Amenity Amenity Dish 
+O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity O O Amenity Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name O O O O O O Price O 
+O O O O Location Restaurant_Name 
+O O O O Location Cuisine Cuisine Cuisine O Cuisine 
+O O O O Location O Restaurant_Name Restaurant_Name O O O Hours Hours Hours Hours 
+O O O O O Cuisine Cuisine O Location Location Location 
+O O O O O O O Cuisine O O O Location Location Location 
+O O O Dish O Location 
+O O O O O Restaurant_Name O O O O Location Location 
+O O O O O O O O O Location Cuisine O O O O Price O O Rating Rating O 
+O O O O O O Amenity O O Rating Rating Rating 
+O O O O O O Price Price O O O O O Amenity 
+O O O O O O Cuisine O O O Location Location 
+O O O O O O Price O Location Cuisine O O O O Amenity 
+O O O O O O O O O Amenity Amenity O O Hours Hours Hours Hours 
+O O O O O O Restaurant_Name Restaurant_Name O O Amenity Amenity 
+O O O O O Price O Location Location Location Location Location O O O O 
+O O O O O O O O O O O O Hours O Price Price 
+O O O O Rating Rating Rating Rating O O O Cuisine O 
+O O O O Cuisine Amenity O Price Price Location Location Location Location Location 
+O O O O Cuisine O O O Amenity Amenity O Location Location 
+O O O O O O O Dish O Hours Hours Hours 
+O O O O O O O O O O O Hours 
+O O O O O O Restaurant_Name Restaurant_Name O Hours 
+O O O O O Amenity O O Price O O Amenity Amenity 
+O O O O O O O O Price Price O Location Location Location 
+O O O O O O O O O O Location Price Cuisine 
+O O O O O Cuisine O Cuisine O Restaurant_Name O O O 
+O O O O O O O Restaurant_Name Restaurant_Name O Hours Hours Hours Hours 
+O O O O O Dish 
+O O O O O O O Location Cuisine O 
+O O O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O O O Price Price O 
+O O O O O O Cuisine O 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Location 
+O O O O O Cuisine O Location Location Location Location Location Location 
+O O O O O O Price Cuisine O O 
+O O O O O O Location Restaurant_Name Restaurant_Name O 
+O O O O O O Location Cuisine O O 
+O O O O O O Location Restaurant_Name O 
+O O O O O O O O Price Cuisine O 
+O O O Price O Location O O O O O Rating Rating 
+Price O Location Location Location 
+Cuisine O O O O O O O O Rating O 
+Location Cuisine Amenity O O 
+Dish O Amenity 
+O O O O O O Amenity Amenity Amenity 
+O O O O O O O Hours Hours Hours 
+O O O O O O O Location Location Location Location Location Location O O Hours Hours 
+O O O O O O O O Hours 
+O O O O Cuisine O O Location Location Location O Dish Dish 
+O O O O Location Cuisine O 
+O O O O O O O O O Rating Cuisine O 
+O O O Location Cuisine O 
+Restaurant_Name Restaurant_Name Amenity Amenity Hours 
+Cuisine 
+Cuisine O 
+Cuisine Amenity Amenity Restaurant_Name O O O O Location Location 
+O O O O Cuisine O O 
+O O O O Location Cuisine O 
+Location Location O O Location Restaurant_Name 
+O O Amenity Amenity O O Restaurant_Name Restaurant_Name O O O Location Location 
+O O Cuisine Cuisine O O Amenity Amenity Amenity Amenity 
+O O O O Cuisine O O O O Cuisine Cuisine Cuisine Cuisine 
+O O O O Cuisine Cuisine O Amenity Amenity Amenity Amenity Amenity Amenity Amenity Amenity 
+O O O O Cuisine O Location Location O Amenity Amenity Amenity Amenity 
+O O O O Amenity O Location Location O Dish Dish 
+O O O O Cuisine O Location Location O O Amenity Amenity Amenity Amenity Amenity 
+O O O O Cuisine Cuisine O Hours Hours Hours Hours 
+O O O O O O O O O O O Amenity Amenity O Amenity Amenity 
+O O O Location O O O Amenity Amenity Amenity 
+O O O O Dish Dish Dish O O O 
+O Cuisine Cuisine O Amenity Amenity O Location 
+O O O O Amenity O Restaurant_Name 
+O O O Location Location Location O Amenity Amenity 
+O O O O Amenity Amenity 
+O O O O O Location Location Location 
+O O O O Rating O O 
+O O O O O O O Rating Dish 
+O O O O O O O O O O 
+O O O O O O Amenity O O O Restaurant_Name Restaurant_Name 
+O O O O Rating Dish O Hours Hours Hours 
+O O O O Restaurant_Name O O Amenity Amenity 
+O O O O O O O Amenity Amenity Location Location Location Location 
+O O O O Restaurant_Name O Hours 
+O O O O O Cuisine O O Hours Hours Hours 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location Location O Amenity 
+O O O O O O O Rating Cuisine Cuisine Location Location 
+O O O O O O O Amenity Amenity Cuisine O O O Amenity O O Location Location Location 
+O O O O O O O Cuisine O O O Location Location Location Location 
+O O O O O O O Price O Cuisine O O Hours Hours Hours Hours 
+O O O O O O O O Location Location Location 
+O O O O O O O O O Restaurant_Name 
+O O O O O Cuisine O O Hours Hours 
+O O O O O O O O O Location Location O O Rating Rating Rating Rating 
+O O O O O O Amenity 
+O O O O O O O O O O O O O O Rating Rating 
+O O O O O O O O Dish Dish 
+O O O O O O O Amenity Amenity 
+O O O O O O Dish 
+O O O O Restaurant_Name Restaurant_Name O Hours 
+O O O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O O Amenity Amenity 
+O O O O Dish Dish Dish Dish O Hours Hours Hours 
+O O Location Location Amenity Rating Dish Dish 
+O Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity O 
+O Restaurant_Name Restaurant_Name Amenity Amenity Amenity 
+O Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O Amenity Amenity 
+O Restaurant_Name Restaurant_Name O Location Location O Price Hours 
+O Restaurant_Name O O Amenity 
+O Restaurant_Name Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O Dish 
+O Restaurant_Name O Dish Dish Dish Hours Hours 
+O Restaurant_Name O Amenity 
+O Restaurant_Name Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name O O O O 
+O Restaurant_Name Restaurant_Name O Amenity 
+O Restaurant_Name O O Amenity Amenity 
+O Restaurant_Name Restaurant_Name O Dish 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O Dish Dish 
+O Restaurant_Name Cuisine O Amenity Amenity Amenity 
+O Restaurant_Name Restaurant_Name O O 
+O Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O O Amenity Amenity Amenity 
+O Restaurant_Name Restaurant_Name O Location Location O O Amenity Amenity 
+O Restaurant_Name O O O O O O O 
+O Restaurant_Name O Location O O Amenity Amenity 
+O O O O O Amenity Amenity O O Rating O Location O Amenity O 
+O Restaurant_Name Restaurant_Name Hours Hours Hours Hours Hours 
+O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O Location Location O Amenity Amenity Amenity 
+O O Cuisine O Location O Amenity 
+O O Restaurant_Name O O Location Location O O Amenity Amenity Amenity 
+O O Cuisine Cuisine O Location Location Location O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity Amenity O O Location O 
+O O Cuisine O Location Location Location Location O Amenity Amenity 
+O O Cuisine O O Location Location Location O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name Location Location Location O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Price O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name O O Location Location Amenity 
+O O Restaurant_Name O Location Location Location O Amenity Amenity 
+O O Location Cuisine O O O Amenity Amenity 
+O O Location Restaurant_Name Restaurant_Name O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O Location Location Location O Amenity Amenity O 
+O O Restaurant_Name Restaurant_Name O Location O Amenity Amenity 
+O O O O O O Location O Dish Dish 
+O O Restaurant_Name Restaurant_Name Restaurant_Name O O Amenity Amenity Amenity Amenity 
+O O Cuisine O O Amenity Amenity 
+O O O O O O Amenity Amenity Amenity 
+Restaurant_Name Restaurant_Name O Location Location Location 
+Restaurant_Name Restaurant_Name Restaurant_Name O O Location 
+Cuisine Cuisine O Location Location Location 
+O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Cuisine O Price Price Price Price 
+O O Amenity Amenity Cuisine O 
+O O Price Cuisine O O Dish 
+O O Cuisine O O Amenity 
+O O Cuisine O O Amenity Amenity Amenity Amenity 
+O O Cuisine O O O Amenity Amenity 
+O O Amenity Price O O Rating Rating 
+O O Amenity O O O O O Price O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O O O O O Location Location Location O Location 
+O O Amenity Amenity O Location Location Location 
+O O Rating Rating O O O Dish 
+O O Location Cuisine Cuisine 
+O O Cuisine O O O O O Rating Rating Rating 
+O O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O O O O O O O O Amenity Amenity 
+O O O O Amenity Amenity O Amenity Amenity Amenity 
+O O Price O O O Location Location O Restaurant_Name Restaurant_Name 
+O O Cuisine O Location Location Location 
+O O Restaurant_Name Restaurant_Name Amenity Amenity O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O 
+O O Price Cuisine O Location Location Location 
+O O Cuisine O O O Amenity Amenity 
+O Cuisine O O Location Location 
+O Cuisine O Location Location Location 
+O O O Rating Rating Rating Dish Dish Location Location Location 
+O O O Amenity Cuisine Cuisine Cuisine 
+O O O Price Cuisine O 
+O O O Price O O O Amenity Amenity Amenity 
+O O O Price O Cuisine O 
+O O O Cuisine O Location 
+O O O Cuisine Amenity Amenity O 
+O O O Location Location Cuisine O O O Dish 
+O O O Location Location Cuisine O 
+O O O Location O O 
+O O O Cuisine O O O Amenity Amenity Amenity 
+O O O Dish Dish Dish Hours Hours Hours Hours 
+O O O Amenity O O O 
+O O O Cuisine Cuisine O 
+O O O Cuisine O Location Location Location 
+O O O O Cuisine Location Location Location 
+O O O Rating Dish Dish Location Location Location 
+O O O Rating Cuisine O Location 
+O O O Rating Cuisine O O Location Location 
+O O O Rating Cuisine O O O Amenity Amenity 
+O O O Rating Cuisine O 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Hours 
+O O O Amenity Amenity O Location Location Location O O 
+O O O Location Amenity Amenity O Amenity Amenity Amenity 
+O O O Location O O Cuisine O 
+O O O Restaurant_Name Restaurant_Name O O Amenity 
+O O O Cuisine Cuisine O 
+O O O Cuisine O O O Amenity Amenity 
+O O O O O O Dish Location Location Location 
+O O O O O O Cuisine Amenity 
+O O O O O O Location Location 
+O O O O O O O O Rating Dish 
+O O O O O O Dish Location 
+O O O Rating Location Cuisine O 
+O O O Cuisine Cuisine Cuisine O Hours Hours Hours Hours Hours Location Location Location O O O O 
+O O O O Amenity Amenity Amenity Amenity 
+O O O O Location Location Location Location O Hours Hours Hours Hours Hours Hours 
+O O O O Location Location Location 
+O O O O O O O Amenity Amenity O O Dish O O Location Location Location O O O O 
+O O O O O O Amenity O Price 
+O O O O O O Cuisine O 
+O O O O O Dish O O O O Amenity Amenity O O Amenity Amenity 
+O O O O O Amenity Amenity O Rating Rating 
+O O O O O Amenity Amenity 
+O O O O Location Location Location Location Location O O Hours Hours Hours Hours 
+O O O O O Restaurant_Name Restaurant_Name 
+O O O Amenity Location Location Location Location 
+O O O Amenity O O O O Amenity Amenity 
+O O O Amenity O O O Amenity Amenity Amenity Amenity Amenity Amenity 
+O O O Cuisine O O O Hours O O Location Location 
+O O O Cuisine O O O Amenity Amenity 
+O O O Cuisine Cuisine O Amenity Amenity 
+O O O O O O Dish O Location Location Location 
+O O O Restaurant_Name Restaurant_Name O O Location Location Location Location Location Location Location 
+O O O Amenity Amenity Cuisine O 
+O O O Amenity Amenity O O Dish Dish Location Location Location Location Location Location 
+O O O Restaurant_Name Restaurant_Name Location Location 
+O O O Cuisine O O O Rating Rating 
+O O O Cuisine O Location Location Location Location Location Location 
+O O O O Price O Cuisine O 
+O O O O Location Cuisine Cuisine 
+O O O Cuisine O O Amenity Amenity 
+O O O Cuisine O Location Location Location O O 
+O O O Price Cuisine O 
+O O O Cuisine O O O Dish 
+O O O Cuisine O O O O Rating Rating Rating Rating Rating 
+O O Cuisine O O Amenity Amenity Amenity 
+O O Dish O O Amenity Amenity Amenity 
+O O Cuisine O 
+O O Cuisine Cuisine O O Dish 
+O O Cuisine O O Dish 
+O O O O Price Price O Dish Dish O O O O O Amenity 
+O O O O O Location Location O Location Location 
+O O Cuisine O O Location Location 
+O O O Rating Rating Cuisine O O O Location Location 
+O O O Location Cuisine 
+O O O Location Restaurant_Name 
+O O O Location Restaurant_Name Amenity Amenity 
+O O O Location Restaurant_Name 
+O O O Location Amenity Amenity 
+O O O Location Restaurant_Name O 
+O O O Location O O O 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O O Location Cuisine O 
+O O Location O O O O O O O O O Dish 
+O Location O O Amenity 
+O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name O Location Location Location Location 
+O Cuisine O 
+O Rating O O Location Cuisine O 
+O O O Cuisine O 
+O O Location Location Location O Price Price Price 
+O O O O O O Hours Hours Hours Hours O Price O Location Location Location 
+O Cuisine O 
+O O Location Cuisine 
+O O Location Restaurant_Name Restaurant_Name 
+O O Location Location Location O O O Amenity Amenity 
+O O Location Cuisine Cuisine O 
+O O Location Cuisine Cuisine 
+O O Location Cuisine O 
+O O O O O Rating Cuisine O Location Location 
+O O O Cuisine Location Location Location 
+O O O Cuisine Cuisine Location Location Location 
+O O O Cuisine Amenity Location Location 
+O O O O Restaurant_Name Restaurant_Name 
+O O O O Rating Cuisine O 
+O O O O Cuisine O 
+O O O O Rating Cuisine O O O Rating Rating 
+O O O O O O O O Cuisine O O O 
+O O O Amenity O O O O O O O 
+O O O O O Restaurant_Name 
+O O O O O Restaurant_Name 
+O O O O Restaurant_Name Restaurant_Name 
+O O O Location O O O Dish 
+O O O Hours O O Location Cuisine Cuisine 
+O O O Location O O Cuisine Location Location 
+O O O O O O O Location Cuisine Cuisine 
+O O Restaurant_Name Restaurant_Name O O O O O O 
+Dish Location O O O 
+Restaurant_Name Restaurant_Name Restaurant_Name O Location Location 
+O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O Cuisine Amenity Amenity Amenity O O O O O O Rating Rating Rating Rating 
+O O O O Cuisine Cuisine 
+O O O O Rating Rating Cuisine Cuisine Location Location Location O O O O 
+O O O O Rating O O O 
+O O O O O O O O O Hours Hours Hours Hours 
+O O O O O O Cuisine Cuisine 
+O O O O O O Amenity Amenity Amenity Amenity Amenity 
+O O O O Cuisine Cuisine O O Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Location Location 
+O O O O O O O O O Rating Dish Location Location 
+O O O O O Rating Amenity Amenity O O O 
+O O O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name Location 
+O O O O O O Location Location O O Rating O O 
+O O O O O Cuisine O O O O Location 
+O O O O O Cuisine O O O Rating Rating O O Price Price Price 
+O O O O O O O O Price Cuisine O 
+O O O O O Restaurant_Name 
+O O O O O O Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name O O Location 
+O O O O O O O Location Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O Location Cuisine O 
+O O O O Location Restaurant_Name Restaurant_Name 
+O O O O O O Location Location O Restaurant_Name Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O O O O Location Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O O O Location Restaurant_Name 
+O O O O O O Location Restaurant_Name Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name Location Location 
+O Price O Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O Location Cuisine O 
+O O O O O Restaurant_Name Restaurant_Name O O 
+O O O O O Cuisine Cuisine Cuisine Cuisine 
+O O O O O Location Restaurant_Name Restaurant_Name 
+O O O O O Location Restaurant_Name 
+O O O O O Location Cuisine Cuisine 
+O O O O Cuisine O 
+O O O Restaurant_Name Restaurant_Name O O O Location 
+O O O O Restaurant_Name 
+O O O O Amenity Amenity O O O Dish Dish 
+O O O O Location Restaurant_Name 
+O O O O Location Restaurant_Name Restaurant_Name 
+O O O O Restaurant_Name Restaurant_Name 
+O O O O O Cuisine Cuisine 
+O O O O Location Restaurant_Name 
+O O O Restaurant_Name O O 
+O O Restaurant_Name O Location Location Hours Hours Hours 
+O O O O O O O O O Location O O Restaurant_Name Restaurant_Name O Location 
+O Hours O O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name O O 
+O O Restaurant_Name Restaurant_Name O Location 
+O O Restaurant_Name Restaurant_Name O Location 
+O O Cuisine O O O 
+O O O O O O O O O O Restaurant_Name 
+O O Dish O O Location 
+O O O O Dish 
+O O O Location Location Amenity Amenity 
+O O O O Amenity Amenity O Location Location Location 
+O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O Dish O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O Restaurant_Name Hours 
+O O O O O O O Restaurant_Name 
+Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O 
+O O O O O O O O O O O Cuisine O Location Location Location 
+O O O O O O O O O O O O O Location Dish O 
+O O O O O Location O 
+O O O O O O Dish O O O Location O O O O 
+O O O O O O O Cuisine O O O O O O O 
+O O O O O Restaurant_Name O O Location Location Location Location 
+O O O O O Rating O O O 
+O O O O O Location Dish O O Amenity 
+O O O O O Cuisine O O Amenity 
+O O O O O Cuisine O O O O Amenity Amenity 
+O O O O O Rating O Location Location Location O Amenity Amenity Amenity 
+O O O O O O O Amenity Amenity 
+O O O O O O O O Cuisine O O O O O O O Price Price Price 
+O O O O O Restaurant_Name Restaurant_Name O O O Location Location 
+O O O O Hours Amenity Location Location Location Location Location 
+O O O O Dish 
+O O O O O Cuisine O 
+O O O O O Rating Amenity Amenity Location Location Location 
+O O O O O O Cuisine O O O O O O O 
+O O O O O O Rating Dish O O O 
+O Amenity Amenity O O O O O O O O Amenity O 
+O O O O O Restaurant_Name Restaurant_Name O O O Location O 
+O O O O O Cuisine O Cuisine O O O O O O O O O O Price 
+O O O Hours Amenity Hours Hours O O O O O 
+O O O O O O O O Rating Cuisine 
+O O O O Amenity Hours O O O O O O O Amenity Amenity Amenity 
+O O O O O O O O O O O O O O O Location Location Location Location Location 
+O O O O O O Location Cuisine O O O O O Price Hours 
+O O O O O O O O O O O O O Cuisine Cuisine O O O Amenity Amenity 
+O O O Rating Rating Rating Restaurant_Name Location 
+O O O Rating Rating O Cuisine Cuisine Location Location 
+O O O Price O O Hours 
+O O O Location O O O Hours Hours 
+O O O Cuisine O Amenity 
+O O O Amenity Amenity O O O Hours 
+O O O Amenity Amenity Hours O 
+O O O Amenity Amenity O O O Cuisine 
+O O O Cuisine Cuisine O 
+O O O Hours Hours O O Rating Rating 
+O O O O O O O O O Amenity Amenity O O Location Location Location 
+O O O Cuisine Cuisine O O Rating Rating 
+O O O O O Amenity O O O Hours Hours 
+O O O O O Amenity 
+O O O O O O Dish O Hours Hours Hours 
+O O O Amenity O O O 
+O O O O O O O Hours Hours O O Location Cuisine O 
+O O O O O O O O Location Cuisine 
+O O O O O Amenity Amenity Amenity O Amenity Amenity O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Cuisine O Location O O O O 
+O O O Hours Hours O O Restaurant_Name O O 
+O O O Price O Location Location Location O O 
+O O O Price Cuisine O O Amenity Amenity 
+O O O Cuisine O O O Amenity Amenity 
+O O O Price O O O Location Location O O O Amenity Amenity 
+O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O Location Dish O 
+O O O O O Location Cuisine O 
+O O O Amenity O Location Location 
+O O Amenity Amenity Amenity O O O O 
+O O O O O Cuisine O O 
+O O O O Restaurant_Name Hours Hours 
+O O O O O Amenity Amenity Cuisine O Location Location Location 
+O O O O O O O Location Cuisine Cuisine 
+O O O Dish Dish O Location Location O Amenity Amenity 
+O O O Cuisine O O O O Location Location Location 
+O O O Price O 
+O O O Location Restaurant_Name Restaurant_Name Restaurant_Name O O O O O Dish Dish 
+O O O O O O O Restaurant_Name O O Location Location 
+O O O O O Amenity O O O Price O 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location Location 
+O O O O O O O O Hours Hours Hours 
+O O O O O O O O Location Location O Rating Rating O O Price O 
+O O O O O O O O O Cuisine O O O O Hours Hours Hours 
+O O O O Cuisine O O O Location 
+O O Dish O O O 
+O O O O O O O Cuisine O O O O O O O O O O Location 
+O O O O O O O O O O O Dish 
+O O O Rating Rating O O O Amenity Amenity 
+O O O Dish O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Amenity 
+O O O Rating Dish O O O O O Location 
+O O O O Dish 
+O O O Cuisine Dish Dish Dish Dish 
+O O O O O O O O Cuisine Amenity Location Location Location Location Location 
+O O O Dish Dish O Location Location O Hours Hours Hours 
+O O O O O Amenity Amenity O Amenity Cuisine O 
+O O O O Location Location Location O Amenity Amenity 
+O O O O O Location Location O O Dish 
+O O O O O O Hours Hours Hours Hours O O Amenity O O Amenity Amenity 
+O O O O O O O O O Amenity Amenity Dish Dish 
+O O O Dish O O Cuisine Cuisine 
+O O O Amenity Cuisine O O Amenity Amenity 
+O O Restaurant_Name 
+O O Cuisine O O Price O O O Location 
+O O Dish 
+O O Dish O O O O Rating Dish O O O Amenity Amenity O O Amenity Amenity 
+O O O O O Amenity Amenity 
+O O O Dish Dish Dish 
+O O O Restaurant_Name Restaurant_Name 
+O O O O O Cuisine 
+O O O O O Location Location 
+O O O O O O O Cuisine Cuisine Cuisine 
+O O Dish 
+O O Amenity Amenity Cuisine O O O 
+O O O Dish Dish Dish Location Location O O O O 
+O O O O O O Amenity Amenity O 
+O O O O Amenity Amenity Cuisine 
+O O O O Dish 
+O O O O O O Rating Rating O Location Location Location 
+O O O O Cuisine O 
+O O O O O Dish 
+O O O O Dish O O O O O 
+O O O O O Dish O Rating Rating Rating 
+O O O O O Cuisine O O O Location Location Location O O Hours O Hours Hours Hours Hours 
+O O O O O Cuisine Cuisine O O Dish O Dish Dish 
+O O O O O Location Cuisine O O O Rating Rating Rating 
+O O O O O Amenity O Location Location Location O O O O 
+O O O O O O O O Dish Dish 
+O O O O O O O O Dish Dish Dish Dish 
+O O O O O O O O O O Amenity Amenity O O Amenity Amenity 
+O O O O O O O Dish Dish Dish 
+O O O O O O O O O Amenity Amenity O 
+O O O O O O O O Amenity Amenity Amenity O Amenity Amenity 
+O O O O O Cuisine O 
+O O O O O O O Cuisine O O O Amenity 
+O O O O O O O O Rating Rating Rating Cuisine O 
+O O O O O O O Restaurant_Name Restaurant_Name O Location Location Location 
+O O O O O Cuisine O 
+O O O O O O Cuisine O O O Hours Hours Hours Hours 
+O O O O O O O Location Location Location Location 
+O O O O Amenity O O Location O O O O Dish O O O O 
+O O O O O O Price O O Location Location Location O O O Rating Dish Dish 
+O O O O O O O O O Rating Rating Rating O Price Price Price O Price Price Price Location 
+O O O O O O Cuisine O Location 
+O O O O O Restaurant_Name Restaurant_Name O Restaurant_Name Restaurant_Name O O O O 
+O O O O Hours O Location Location 
+O O O O Dish 
+O O O O O Amenity O O Cuisine O O O O O O O O O O O 
+O O O O O O O O O O O O O O O O Amenity 
+O O O O O O O O Restaurant_Name Restaurant_Name O O O O O O Hours Hours O O O 
+O O O O O Dish Dish O O O O Rating O O O O 
+O O O O O Cuisine 
+O O O O O Cuisine O Cuisine Hours 
+O O O Price Dish 
+O O O O O O Cuisine O Amenity Amenity Location Location Location 
+O O O O O O O O O Amenity Amenity Location Location Location 
+O O O O O O O Location Cuisine Cuisine O 
+O O O O Dish Dish O O O Location Location Location Location Location 
+O O O O O O O O Hours Location Location Location 
+O O O O O Dish Hours O O 
+O O O O O Dish O O O O Amenity Amenity 
+O O O O O Dish Hours Hours Hours O O Price O 
+O O O O O O Cuisine O O O Rating Rating Rating Rating Rating 
+O O O O O O Cuisine O Location 
+O O O O O O Cuisine O O 
+O O O O O O Cuisine O 
+O O O O O O Cuisine O 
+O O O O O O O Amenity O 
+O O O O O O O O O Cuisine O 
+O O O O O O O Rating O O 
+O O O Restaurant_Name 
+O O O Cuisine O 
+Cuisine Cuisine O O Amenity Amenity Amenity Amenity Location Location 
+O O O Cuisine O O O Dish 
+O O O Cuisine Cuisine Dish Dish 
+O O O O O O O Cuisine O Price Price Price O 
+O O O O O O Price O O O O Amenity Amenity Amenity Amenity O O O Cuisine O 
+O O O O O Cuisine O O Amenity 
+O O O O O Cuisine O 
+O O O O O Price Cuisine O Amenity Amenity 
+O O O O O Cuisine O Location 
+O O O O O Cuisine O O Dish Dish Dish Dish Location Location Location O O O O 
+O O O O O Location Location Location Location O O O Cuisine Cuisine O 
+O O O O O Location Restaurant_Name O Hours Hours Hours 
+O O O O Cuisine O O O Amenity O O O O O 
+O O O Restaurant_Name Restaurant_Name Location Location 
+O O O Cuisine Cuisine Cuisine Cuisine O O O O O O Rating 
+O O Dish Dish Dish O O O O O O O Location Location Location 
+O O O O O O O O O O O O Amenity Amenity Amenity O Hours 
+O O O O O O O Cuisine 
+O O O O O Rating Dish 
+O O O O O O O Amenity Amenity 
+O O O O Dish O Rating O Location 
+O O O Cuisine 
+O O O O O Dish 
+O O O O O O O O O O O Amenity Amenity 
+O O O O O Cuisine O 
+O O O O O Cuisine O O Location O O Rating Rating 
+O O O O O Cuisine O 
+O O O O O O Dish Dish 
+O O O O O O Cuisine 
+O O O O O O O O Cuisine Cuisine Cuisine O O O O O O O 
+O O O O Rating Rating O O O Location O 
+O O O O Cuisine O O Price 
+O O O O Cuisine Location Location Location 
+O O O O Amenity Amenity O O O O Amenity Amenity Amenity Amenity O Location Location Location 
+O O O O Rating O O O O O O O O O O O O O O O Amenity Amenity O Amenity O O 
+O O O O Cuisine O O O Dish Dish O O O O O O O O O Amenity Amenity 
+O O O O O O O Dish Dish 
+O O O O Amenity O O O O Location Location 
+O O O O Rating Rating Rating Rating Cuisine O O Amenity Amenity 
+O O O O Amenity Amenity Amenity Amenity Cuisine Cuisine 
+O O O O Cuisine Amenity 
+O O O Price Cuisine O 
+O O O O Location Cuisine O O O Amenity Amenity 
+O O O O O O O O Amenity Amenity Amenity O Price Price Price Price 
+O O O O O O Price Dish 
+O O O O O O Rating Amenity Amenity Location Location Location O O O O Hours Hours Hours Hours Hours Hours 
+O O O O O O O Location O 
+O O O Price O O O O O O O O O 
+O O O O Price Price O O O O O O 
+O O O O O O O Location O 
+O O O O O O Cuisine Cuisine O 
+O O O O O O O O Dish Location 
+O O O Cuisine Cuisine O O 
+O O O O O O Location Restaurant_Name O 
+O O Dish Dish O O O Location Location 
+O O O O O Amenity Amenity O O O Amenity Amenity Location Location Location Location Location Location Location Location Location 
+O O O O O Amenity 
+Cuisine O 
+O O Restaurant_Name Restaurant_Name Location 
+O Restaurant_Name Restaurant_Name Hours Hours Hours Hours 
+O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O Restaurant_Name O Location Location 
+O Restaurant_Name Restaurant_Name O O Location 
+O Restaurant_Name Hours Hours 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Rating Hours O 
+O Restaurant_Name Restaurant_Name O Hours Hours 
+O Restaurant_Name Restaurant_Name Location Location Location Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Hours Hours Hours 
+O Restaurant_Name Restaurant_Name Location Location Location O O O O 
+O Restaurant_Name O O O O 
+O Restaurant_Name Restaurant_Name O O Hours 
+O Restaurant_Name Restaurant_Name O Location Location Hours Hours 
+O Restaurant_Name O O O Location Location 
+O Restaurant_Name O O Hours 
+O Restaurant_Name Restaurant_Name O Location Restaurant_Name O 
+O Restaurant_Name Restaurant_Name O Location Location O O Hours Hours 
+O Restaurant_Name Restaurant_Name Restaurant_Name O Price O O 
+O O O Restaurant_Name O Location Location Location O O O O O 
+O O Restaurant_Name Restaurant_Name Location Location Hours Hours Hours Hours 
+O O Restaurant_Name Restaurant_Name Price 
+O O Restaurant_Name Restaurant_Name Location O O O O Amenity Amenity 
+O O Restaurant_Name Location Location Location Hours Hours Hours 
+O O Restaurant_Name Restaurant_Name O Rating O O Hours O O Price 
+O O Amenity O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Amenity Amenity 
+O O Cuisine O Location O O Cuisine O 
+O O Price Price 
+O O O Restaurant_Name Hours O Hours Hours 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location O Location Location O Cuisine O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Price 
+O O Restaurant_Name Restaurant_Name O O O O O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name O Location O O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O Location Location O O O O O Amenity Hours 
+O O Restaurant_Name Restaurant_Name O Location O Price O 
+O O O O Cuisine O Location Location Location 
+O O O Cuisine Location Location 
+O O O Cuisine O O Hours Hours Hours Hours O O Location Location Location Location Location 
+O O O Restaurant_Name O Location Location 
+O O O Restaurant_Name O Location 
+O O O Hours O O O Amenity Amenity 
+O O O Amenity O O O O O O Dish Hours Hours Hours 
+O O O Cuisine O O Dish Dish O Location Location 
+O O O Price Cuisine Cuisine O Location 
+O O O Price Cuisine O Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location O O 
+O O O Cuisine Amenity O O Amenity Amenity 
+O O O Cuisine O O O Location Location 
+O O O Restaurant_Name O Location Location Location Location O O O O O 
+O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O Amenity Cuisine O Location O O Amenity 
+O O O Cuisine Location O Amenity Amenity Amenity O O Hours Hours Hours 
+O O O Cuisine O O Amenity O Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location O O Amenity Amenity 
+O O O Amenity Amenity O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Rating Rating O O O Hours Hours 
+O O O O Cuisine O Location 
+O O O Rating O O O Location Location 
+O O O Rating Cuisine O O Amenity 
+O O O Cuisine O Location O O O Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Location Location 
+O O O Restaurant_Name Location Location Location 
+O O O Restaurant_Name O Location Location 
+O O O Cuisine O Location Location 
+O O O Cuisine O O O Amenity Amenity 
+O O O Cuisine O O Amenity Amenity O Hours Hours 
+O O O Hours Hours O O Location Location O O O Amenity 
+O O O O O Restaurant_Name Restaurant_Name O Location Location O O O Amenity Amenity 
+O O O Cuisine O O Location Location 
+O O O O O O Cuisine Cuisine Location Location 
+O O O Restaurant_Name Location Location Location Location Location 
+O O O Restaurant_Name Location 
+O O O Restaurant_Name Location Location Location O O 
+O O O Cuisine O Location Location O Amenity Amenity Amenity 
+O O O Price O Cuisine O Location Location Location 
+O O O Rating O O O Location Location O Price Price Price Price 
+O O O Amenity Amenity O O Location O O Amenity 
+O O O Restaurant_Name Restaurant_Name Location 
+O O O Cuisine Cuisine Location 
+O O O Amenity O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O Location Location O O Dish 
+O O O O O O Cuisine O Hours 
+O O O O O O O O Amenity O O Amenity 
+O O O O O O O O Location Location Location O Hours Hours 
+O O O O O O O O O Amenity Amenity Amenity Amenity O O Dish O O O 
+O O O O O O O O O Hours Hours Hours Hours Location Location 
+O O O Location O O Cuisine Cuisine Location 
+O O O O O Location Location Location Location Location O O Dish Dish Dish Dish 
+O O O O Location Location Location O O Amenity Amenity O O O O 
+O O O Restaurant_Name Location Location 
+O O O Amenity Amenity Amenity Amenity Location 
+O O O Cuisine O Location 
+O O O Restaurant_Name Restaurant_Name O O Location Location 
+O O O Price Price O O O O Location Location Hours Hours Hours 
+O O O Price O O O O Amenity Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name O O Location 
+O O O O Location Location O O Dish Dish 
+O O O O Location O O O Amenity Amenity Amenity Amenity O O O O Amenity Amenity 
+O O O O Location Location O O Amenity O O Dish 
+O O O O Location Location O Amenity Amenity 
+O O O O O O O O O Hours Hours Hours Hours Hours Hours Hours 
+O O O O O O Location Location O O O Amenity O Amenity Amenity Amenity 
+O O O O O O Location 
+O O O O O Location Location O O Price Price 
+O O O O O O O Rating Rating Rating O O O O O 
+O O O O O O Dish Hours Hours Location Location 
+O O O O O O Amenity Amenity Location O O Cuisine Cuisine Cuisine Cuisine Cuisine 
+O O O Restaurant_Name O O Location Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Location O O Amenity 
+O O O Cuisine O O O 
+O O O Amenity O Location Location O O Dish 
+O O O Amenity Amenity O Restaurant_Name Restaurant_Name 
+O O O Cuisine Cuisine Location Location Location Location Location Location Location Location 
+O O O Restaurant_Name O O Location Location Location Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name O Location Location Location 
+O O O Restaurant_Name Restaurant_Name Location Location Location Location 
+O O O Cuisine Cuisine Location Location Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location Location O Amenity Amenity Amenity 
+O O O Cuisine O O O Rating Amenity Amenity 
+O O O Cuisine O Location Location Location 
+O O O Price Price Price Cuisine O Location Location Location 
+O O O Restaurant_Name Restaurant_Name O O O O Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name O Location Location 
+O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Location 
+O O O Restaurant_Name Restaurant_Name Location Location O O O O O 
+O O O Restaurant_Name O Location Location O O Amenity Amenity Amenity 
+O O O Cuisine O O Hours Hours Hours Location Location Location 
+O O O Amenity Amenity O Location 
+O O O Price O O Restaurant_Name Restaurant_Name Restaurant_Name O Amenity Amenity 
+O O O Price O Location Location 
+O O O Restaurant_Name Location Location 
+O O O Cuisine O Location Location Location O O O Hours Amenity 
+O O O Cuisine Cuisine Location 
+O O O Cuisine O Location 
+O O O Restaurant_Name Restaurant_Name O Location Location O Amenity Amenity Amenity 
+O O O Hours Restaurant_Name Restaurant_Name Location 
+O O O O O Location Location Location Location O O Cuisine O 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Location O O O O 
+O O O Hours Hours Cuisine O O Location Location Location Location 
+O O O Cuisine O Location 
+O O O Cuisine O Location O Amenity Amenity 
+O O O Rating Dish Location Location Location 
+O O O O O O O Amenity Amenity Amenity Amenity 
+O O O O Location Location Location O O Amenity Amenity 
+O O O O Location O O Cuisine 
+O O O O O O Location O O Amenity Amenity Amenity O O Amenity Amenity 
+O O O O Hours Hours Hours Hours 
+O O O O O O O O O O Cuisine Cuisine O Cuisine Cuisine 
+O O O O O O O O O Amenity 
+O O O Restaurant_Name Restaurant_Name Location Location Location 
+O O O O Location Location O Amenity Amenity 
+O O O O Location Location Location O O Dish 
+O O O O Location Location Location O Amenity Dish 
+O O O O O O Dish Dish Hours Hours 
+O O O Cuisine O Location Location Location Location 
+O O O O Location Location O O Dish O Amenity 
+O O O Location Location O O O Hours Hours O O Cuisine 
+O O O Location Location O O O O O Rating Dish 
+O O O O Hours Hours Hours Hours O Price O 
+O O O O O Hours Hours Hours Hours 
+O O Cuisine O Location Location 
+O O O Location Location 
+O O Price O O Location 
+O O O O O Restaurant_Name Restaurant_Name O O Location Location 
+O O Amenity O Restaurant_Name 
+O O O O O O O Amenity Amenity 
+O O O O Amenity Amenity 
+O O O O Location Rating 
+O O O Hours Hours Hours O O 
+O Restaurant_Name Amenity Amenity 
+O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O O Location O O O O O Amenity Amenity Amenity 
+O Hours Hours O O Hours 
+O O O O O O O O O O O O O O O Restaurant_Name 
+Amenity Amenity O O Location Location Location O Rating Amenity Amenity 
+Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Amenity 
+O O O Amenity Cuisine O Location Location Location 
+O O O Dish 
+O O O O Dish 
+O O O O Amenity Amenity Amenity Location Location Location Location Amenity O O Location Location 
+O Location O 
+O O Location Restaurant_Name O Location Location Location Location 
+Dish Dish 
+Location Dish Dish 
+Location Restaurant_Name 
+Location Restaurant_Name O 
+Location O O O Amenity Amenity 
+Location Restaurant_Name O 
+O O Rating Rating O O O Hours Hours Hours Hours 
+O O O O O O O Dish Dish 
+O O Cuisine O O O O O O O 
+O O Restaurant_Name Location Location Location 
+O O Amenity Amenity Amenity Amenity Amenity 
+O O O Dish 
+O O Location Cuisine Cuisine O 
+O O Location O 
+O O Price Cuisine Cuisine O O Location Location 
+O O O O O O O Cuisine O 
+O O O Rating Rating Rating O O O Rating Dish 
+O O O Cuisine O Amenity Amenity O O Amenity Amenity 
+O O O Location O O Location Location Hours Hours Hours 
+O O O Rating O O O Dish Dish 
+O O O Price Rating Cuisine O Location O Location Location 
+O O O Restaurant_Name 
+O O O Amenity Amenity O O Price O O 
+O O O O O O Rating Rating Rating 
+O O O O Price O O O O Location 
+O O O Cuisine O O O Location O O Amenity Amenity 
+O O O Rating Rating O Location Location Location Location Location Location Location Location Location O Location Location Location Location Location Location Location O O 
+O O O Price Cuisine O O O O O O O O O O 
+O O O Hours Hours Hours Hours Hours Location O Amenity Amenity 
+O O Cuisine O O Amenity 
+O O Cuisine O O Price O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Location Location Location 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Location O O O Amenity Amenity Amenity 
+O O Dish Dish O Price O O Rating Rating 
+O O Restaurant_Name Restaurant_Name Restaurant_Name O O Hours Hours 
+O O Cuisine Cuisine O Location Location O Price O 
+O O Location Restaurant_Name 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Hours O Location Location 
+O O Price O Cuisine 
+O O Restaurant_Name Restaurant_Name O Amenity Amenity 
+O O Amenity Amenity Location Location O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Dish O Amenity Amenity Amenity O O Price O 
+O O Cuisine O O Price O 
+O O O Price O O O O O O O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Location Location O Price O 
+O O Dish Dish O Amenity Amenity 
+O O Cuisine Cuisine O Location Location O Rating O O 
+O O Price Price Cuisine O O Amenity Amenity 
+O O O O O O O O Restaurant_Name Restaurant_Name 
+O O Amenity Amenity Amenity Amenity O Hours Hours Hours O O Restaurant_Name Restaurant_Name O Location 
+O O Amenity O Hours Hours O O Cuisine O O O O O Rating Rating Rating 
+O O O O O O O Cuisine O O O O O O O O O O Amenity Amenity O O O 
+O O Amenity Hours Amenity Amenity O Restaurant_Name Restaurant_Name 
+O O O Amenity O O O O O Amenity Amenity O O Amenity Amenity O Hours Hours Hours Hours 
+O O O O O O O Restaurant_Name Restaurant_Name 
+O O O O Hours O O O Location Restaurant_Name Restaurant_Name 
+Cuisine O 
+Cuisine O Amenity Amenity 
+Cuisine O Location 
+Price O Cuisine O 
+O O O O O O O Dish O Location Location Location 
+O Amenity O Amenity O O O 
+O O O O Cuisine O 
+O O O O Amenity Amenity O O Dish 
+O O O Dish O O O Location Restaurant_Name Restaurant_Name 
+O O Location Location 
+O O O O Cuisine O O Rating Rating Rating Rating 
+Location Cuisine Cuisine O 
+O O Rating Rating O Location Location Location 
+O O O O Hours Hours O Restaurant_Name Restaurant_Name Restaurant_Name O Location O O O O O O O O Hours 
+Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O 
+Location Rating Rating Dish Restaurant_Name 
+O O O O Amenity Amenity Amenity Amenity Amenity O O O Rating Rating Rating Rating 
+O O O Rating Rating O O O O O O Amenity O 
+O O O Cuisine O O Location O Cuisine O 
+O O O Cuisine O O O Amenity Amenity O Rating Rating Rating Rating Rating 
+O O O O O O O O Amenity O Amenity 
+O O O Cuisine O Location Location Location 
+O O Cuisine O O O Amenity Amenity 
+O O O O Price Cuisine O Location 
+O O O O Amenity Amenity Cuisine O O Amenity 
+O O O O Amenity Amenity O O O Cuisine O O O Amenity Amenity Amenity 
+O O O O Location Cuisine O 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Location Price Amenity Amenity O O Dish Dish O Dish O O Amenity Amenity 
+O O O O Location Location O O Restaurant_Name O O Location 
+O O O O O O Location Dish Dish Dish O O O O O O Dish 
+O O O O O O O O O Restaurant_Name Restaurant_Name Location Location 
+O O O O O O O Amenity Amenity 
+O O O O O Dish Location Location Location 
+O O O Cuisine Location Location Location Location Location Location O O Amenity Amenity O Hours Hours O O Rating Rating 
+O O O Restaurant_Name 
+O O O O Amenity O O O Restaurant_Name Restaurant_Name O Hours Hours O O 
+O O O O O O Amenity Amenity Amenity Amenity O Location Location Location 
+O O O O Location Cuisine O O Dish Dish Dish 
+O O O O O O O Cuisine Location 
+O O O O O Rating Rating Cuisine Cuisine 
+Cuisine 
+O O O O Dish Dish 
+Price O Amenity Cuisine O 
+Restaurant_Name Restaurant_Name O Amenity Amenity 
+Restaurant_Name Restaurant_Name O 
+O O Amenity Amenity Amenity O O O Amenity Amenity Amenity Amenity Amenity Amenity 
+O Location Location Location 
+O O O O O O O 
+O O Amenity O 
+O O O Cuisine O O O Amenity Amenity Amenity Location Location Location Location Location Location 
+O O O O O O Dish 
+O O Amenity Amenity O 
+O O Cuisine Cuisine O O O O O Amenity Amenity Amenity 
+O O O O Cuisine 
+O O O Price O Location Location Location 
+O O O O O Location O O O Amenity Amenity 
+O O O O O O O Amenity Amenity Location Location Location 
+O O O O O Amenity Amenity 
+O O O Price O 
+O O O Cuisine O O Location Location Location 
+O O O O Location O O Rating Rating Rating Rating Rating 
+O O O Price O Cuisine O O O Location Location Location 
+O O O O Location Restaurant_Name 
+O O O O Location Restaurant_Name Restaurant_Name O 
+O O O O Location Cuisine Cuisine O 
+Amenity Amenity O 
+O Dish O O O O 
+O O O O O O Price Price O O O O O O O Hours Hours Hours 
+Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Cuisine O 
+O O O O O Rating Cuisine O Location 
+Cuisine Cuisine Location Location Location 
+O O O O Rating Cuisine Hours 
+O O O O Amenity Amenity Amenity Amenity O O Rating Rating O Hours Hours O O Dish 
+O O O O Location O 
+O O O O Rating O O Amenity Amenity 
+O O O O O O Rating Rating 
+O O O O Location O O O Amenity O 
+O O O O Location Cuisine Cuisine O 
+O O O O O Restaurant_Name O Location 
+O O O O O O O O Location Location Location 
+O O O O O O O Rating O O O Location 
+Cuisine 
+O Price Price O Location Location O O Amenity Amenity O Amenity 
+O Hours Hours O Location Cuisine O 
+O O O O O O O Dish O O Restaurant_Name Restaurant_Name 
+O O O O O Location Cuisine Cuisine O 
+O Dish Location Location Location Hours Hours Hours 
+O O O O O O Amenity Amenity Dish 
+O O O O O O O O O O O O O O Amenity Amenity 
+O O O O O Hours O O Amenity 
+O O O Amenity Amenity O Location Location Location 
+O O O O O Rating O Location Location Location 
+O O O O O Location O O 
+O O O O O O Cuisine O O O Location Location Location Location 
+O O O O O O Hours O Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O Cuisine Cuisine O O O Location Location Location Location Location Location 
+O O O O O Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name O 
+O O O O O O Cuisine O 
+O O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Rating Rating Rating O O Location Location 
+O Cuisine O O Amenity Amenity 
+O Dish O O Location Location Location 
+O O O O O O O O Amenity Amenity Amenity 
+O Cuisine Cuisine O Location Location 
+O O O Rating Dish Location Location 
+O Rating Rating O O Location 
+O O O Amenity Amenity O O Location O O Cuisine O 
+O O O Cuisine O Location O Location O Amenity Amenity O 
+O O Restaurant_Name O 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O O 
+O O O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O O O O Restaurant_Name Restaurant_Name Location Location Location 
+O O O O O O Hours O Restaurant_Name Restaurant_Name 
+O O O Price O O O Restaurant_Name Restaurant_Name 
+O O O Rating Cuisine Cuisine Location Location 
+O O O Rating Cuisine Cuisine Cuisine 
+O O O Rating Cuisine O Location Location 
+O O O Rating Cuisine O O O Location Location 
+O O O Rating O Location 
+O O O Rating Cuisine Cuisine O Location Location Location 
+O O O Location O O Restaurant_Name Restaurant_Name 
+O O O Location Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Location Cuisine Cuisine O O 
+O O O Location Restaurant_Name O O 
+O O O O O O Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O O O Restaurant_Name Restaurant_Name 
+O O O Amenity Amenity O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Price O O Restaurant_Name 
+O O O O O O O Restaurant_Name 
+O O O Rating O O O O O Location Location O O O O O O 
+O O O Rating Rating Cuisine O O Location 
+O O O O Location Amenity Amenity O Location Location Location 
+O O O Price Price O O O Amenity Amenity O Amenity Amenity Location Location Location 
+O O O O O Cuisine O Location Location 
+O O O O O O Price Cuisine O O Location 
+O O O O O O O Location Location Location Location Location O O Amenity Amenity Amenity Amenity 
+O O O O O O O O O Cuisine O O Location Location 
+O O O Location Cuisine Cuisine O 
+O O O O O O O Location Cuisine O 
+O O O O O O O Location O O O Dish Dish 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O O Restaurant_Name O O Location Location Location Location 
+O O O O O O Restaurant_Name O Location Location 
+O O O O O O Dish O O Restaurant_Name Restaurant_Name 
+O O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name O Location Location 
+O O O O O Restaurant_Name 
+O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name 
+O Cuisine O O Hours Hours Hours O Location Location 
+O O O O O Restaurant_Name O 
+O O O O O O Restaurant_Name O 
+O O O Dish O O Restaurant_Name Restaurant_Name O 
+O O O O O Restaurant_Name Restaurant_Name O 
+O O O O O O O O 
+O O O O O Restaurant_Name O 
+O Cuisine O O O Amenity Amenity 
+O Location O O O Amenity Amenity Amenity O O O 
+O Location O Hours Hours Hours O O Rating Rating 
+O Location O O Amenity 
+O Location O O O Rating Rating 
+O Location O O Dish Dish 
+O Dish O O Location 
+O Dish O O O Rating Rating O O Location Location Location Location Location 
+O O O Location O O Rating Amenity 
+O O O Price Location 
+O O O O O O Dish 
+O O O Price Price O 
+O O O Location O Hours Hours Hours Hours O O Rating Rating 
+O O O Hours Hours 
+O Cuisine O O O Location Location Location 
+O O O Price O O Cuisine 
+O O O Hours Hours Hours Hours 
+O O O Cuisine Cuisine O O Rating Rating 
+O O O Price O O Amenity 
+O O O Hours Hours Hours Hours 
+O O Location O Price 
+O O O O Location Location O O Cuisine Dish O O Dish Dish 
+O O O Dish Location Location 
+O O O Dish Hours Hours Hours Hours 
+O O O O Amenity Amenity O Dish Location Location Location 
+O O Location Location Location O O Rating O O 
+O O O O O O Location 
+O O O Location 
+O O O Hours Location Location Location Location 
+O O O Hours Hours Hours 
+O O O Hours Hours Hours Hours 
+O O O Location Location Location O O Price O 
+O O Location Location O Amenity Amenity Amenity 
+O O Location O Hours Hours Hours Hours 
+O O O O Amenity Amenity Amenity O O Location Location Location Location 
+O O O Amenity Amenity Amenity Hours O Hours 
+O O Location O Dish O Dish Dish Dish 
+O O O Hours Hours Hours Hours Location Location Location 
+O O O O O O O O O O O Location Cuisine Cuisine O 
+O Cuisine O Location Location O O O O 
+O O O O Hours O O Restaurant_Name Restaurant_Name 
+O O O Restaurant_Name Hours 
+O O O Restaurant_Name O O 
+O O O Restaurant_Name Restaurant_Name Amenity Dish Hours 
+O O O Restaurant_Name Restaurant_Name O Hours Hours 
+O O O Restaurant_Name O Location Location O 
+O Hours O Restaurant_Name Restaurant_Name Restaurant_Name O Location Hours Hours Hours 
+O O O Restaurant_Name Restaurant_Name Hours 
+O O O Restaurant_Name Restaurant_Name O 
+O O O Restaurant_Name Restaurant_Name O 
+O O O Restaurant_Name Hours 
+O O Hours Restaurant_Name O 
+O O O O Restaurant_Name Restaurant_Name O Location Location O 
+O O O O Location Restaurant_Name O 
+O O O O Restaurant_Name Restaurant_Name O Location Hours 
+O O O O Cuisine O Location O Hours 
+O O O Amenity Amenity O O Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name O O O O O Location Location 
+O O O O O Restaurant_Name O 
+O O O O Restaurant_Name O 
+O O O O Rating O O O O O O O Amenity O O 
+O O Price O Location Location O O Cuisine O Dish 
+O O Rating O O O Amenity Amenity 
+O O Price O Cuisine O Location Location 
+O O Rating O O O 
+O O Price Cuisine O O Location Location 
+O Hours Hours Hours 
+O O O O Rating Location Amenity Cuisine Cuisine O 
+O O Rating Cuisine O O Location 
+O O Rating Cuisine O Cuisine O Location 
+O O Rating Cuisine O Location Location Location 
+O O Rating O O O O O Dish 
+O O Rating O Location Location Location Location Location 
+O O Price Cuisine Cuisine O O O O Amenity Amenity O O 
+O O Location O Price Cuisine Location 
+O O Location Amenity O O 
+O O Location Dish O 
+O O Location O O O Cuisine Cuisine Cuisine 
+O O Price Price O O O Location Location O Hours Hours Hours 
+O O O Rating Cuisine Cuisine Location Location 
+O O Location Cuisine O O O Dish 
+O O O O O O Amenity Amenity Cuisine O O O Location Location 
+O O O O O O Location Location Location 
+O O O O O Restaurant_Name O Location 
+O O O O O Restaurant_Name 
+O O Restaurant_Name Restaurant_Name O O 
+O O Restaurant_Name O 
+O O Restaurant_Name Hours 
+O O Restaurant_Name Restaurant_Name Hours 
+O O Restaurant_Name Hours 
+O O Restaurant_Name Restaurant_Name Location 
+O O O Cuisine Cuisine Cuisine O Location Location O O 
+O O O Cuisine O 
+O O O O O O Amenity Amenity Amenity Location Location 
+O O O O O O Dish 
+O O O O Dish Dish 
+O O O Amenity Amenity O O Dish Dish 
+O O O O O O Amenity Amenity Amenity O O O Dish 
+O O O O Cuisine O O Price 
+O O O O Location Location 
+O O O O Amenity Amenity Amenity Location Location 
+O O O O Dish Dish Hours Hours Hours 
+O O O O O Amenity Amenity 
+O O O O O O Amenity Amenity 
+O O O O O Price Price 
+O O O O O Amenity Amenity Amenity Amenity O O O O O O Location Location Location 
+O O O O O Cuisine O O O Amenity Amenity 
+O O O O O Price O O O O Location 
+O O O O O Cuisine O Location Location Location O O Amenity Amenity Amenity Amenity Amenity 
+O O O O O Restaurant_Name Restaurant_Name O O Amenity Amenity O Amenity O O Rating Rating 
+O O O O O Restaurant_Name Restaurant_Name O Location 
+O O O O O O Cuisine O O Hours Hours Hours Hours 
+O O O O O Rating O O O O O O Location Location O O 
+O O O O O Rating Dish Dish 
+O O O O O Rating O O O Location Location 
+O O O O O Price Price O O Location Location Hours Hours Hours Hours 
+O O O O O Hours Hours Cuisine Cuisine 
+O O O O O O Cuisine O O O Amenity 
+O O O O O O O Amenity Amenity Location 
+O O O O O O O O Dish 
+O O O O O O O O O O Dish 
+O O O O O O O O Amenity Amenity Amenity 
+O O O O O O Location Location Location O Price O 
+O O O O O Restaurant_Name Restaurant_Name 
+O O O O O O Location Location 
+O O O O O O O O Amenity Amenity O O Hours Hours Hours Hours 
+O O O O O O O O Cuisine Amenity Amenity O 
+O O O O O Cuisine O O O Amenity Amenity Amenity 
+O O O O O Amenity Amenity O Location Location Location Location 
+O O O O O Cuisine O O O Amenity Amenity 
+O O O O Cuisine Cuisine O O O Price O 
+O O O O Restaurant_Name Restaurant_Name O 
+O O O O Price Cuisine O 
+O O O O O Cuisine O 
+O O O O Cuisine O O Price Price Price Price 
+O O O O Restaurant_Name 
+O O O O O Amenity O Hours Hours Hours Hours Location Location Location 
+O O O O O Rating Dish Location Location 
+O O O O O Price Dish Location Location 
+O O O O O Price Dish 
+O O O O O Price Amenity Amenity Cuisine O 
+O O O O O Location Cuisine 
+O O O O O Rating Rating Dish Dish 
+O O O O Dish O Location Location Location O Amenity 
+O O O O O Dish Dish 
+O O O O O Dish 
+O O O O O Price Hours 
+O O O O O Price Dish Dish Dish O Location Location 
+O O O O O Rating Dish O 
+O O O O O O O O O Dish O Location 
+O O O O O Rating Dish O O Price O 
+O O O O O O Dish Dish O Location 
+O O O O O Dish 
+O O O O O Dish Location Location Location Location Location 
+O O O O O Amenity Hours 
+O O O O O Dish Location Location Location 
+O O O O O Dish Dish Dish Dish 
+O O O O O O Dish O Location Location 
+O O O O O Dish Price Price Price 
+O O O O O Dish O Location Location Location 
+O O O O Dish 
+O O O O Cuisine O O O Location Location 
+O O O O Cuisine O Location Location Location Location O O Amenity Amenity 
+O O O O Price O O Hours Hours Location Location 
+O O O O O Price Dish O Location Location Location 
+O O O O Dish O Hours 
+O O O O Dish 
+O O O O Dish 
+O O O O Amenity Amenity O Dish O O Amenity O O O 
+O O O O Dish Location Location Location O O O O Hours Hours 
+O O O O Price O Dish O Hours Hours 
+O O O O O Dish Dish 
+O O O O O Dish 
+O O O O O Dish Location O O Hours Hours Hours Hours 
+O O O O O Cuisine Cuisine 
+O O O O O Rating Dish 
+O O O O O Dish Dish 
+O O O O O Dish Dish Dish 
+O O O O O Dish 
+O O O O O Dish 
+O O O O O Cuisine O 
+O O O O O Dish 
+O O O O O Dish 
+O O O O O Dish 
+O O O O O Price O O Location O Location Location 
+O O O O Restaurant_Name Location Location 
+O O O O O Rating Dish 
+O O O O O Rating Rating Dish O Location 
+O O O O Cuisine O 
+O O O O O Price Dish O Amenity Amenity 
+O O O O O O 
+O O O O O O O Dish Location Location 
+O O O O O Rating O Cuisine O Location Location O O Amenity Amenity Amenity Amenity 
+O O O O Dish Dish O O 
+O O O O O Amenity Location O Dish 
+O O O O Amenity O Price O O 
+O O O Amenity Amenity Amenity Amenity Amenity O O O 
+O O O O O Amenity O O Price O O Location 
+O O O O O Amenity O Rating Dish 
+O O O O O Amenity O O 
+O O O O O Amenity O O O Dish 
+O O O O O Amenity Amenity O 
+O O O O Dish O O Location 
+O O O O O Rating Dish Dish O Location Location Location O Price O 
+O O O O O Dish O O Amenity Amenity O Hours Hours Hours Hours 
+O O O O O O Dish O O Amenity 
+O O O O O O Dish Dish Dish Hours Hours 
+O O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O Cuisine O Amenity Amenity Amenity Amenity 
+O O Location O O O O O O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Location Location O O O O O O O O O O O 
+O O O Restaurant_Name Restaurant_Name O Location Location O Amenity Amenity 
+O O O Price O O O Location Location O O Dish 
+O O O Rating O O O 
+O O O Rating O O O Cuisine 
+O O O Rating O O O Location 
+O O O Amenity Amenity Cuisine O O Amenity 
+O O O Cuisine O Hours Hours 
+O O O Hours Hours Cuisine O O O O O Hours Hours Hours 
+O O O Price O Cuisine O Location 
+O O O O Hours Hours Hours Location Location Location O Amenity Amenity Amenity 
+O O O O O Hours Hours Hours 
+O O O Amenity Amenity O O O Cuisine Location O 
+O O O Cuisine O O Amenity Amenity 
+O O O Restaurant_Name Restaurant_Name Location Location Location O O Amenity Amenity 
+O O Location Location 
+O O Restaurant_Name 
+O O Restaurant_Name Restaurant_Name 
+O O O Cuisine O 
+O O Restaurant_Name Restaurant_Name 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Restaurant_Name Restaurant_Name 
+O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Location 
+O O O Rating Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O Location 
+O O Restaurant_Name Restaurant_Name 
+O O Restaurant_Name 
+O O O O O O O O Dish O Dish O Amenity Amenity Amenity O O O 
+O O O Restaurant_Name Restaurant_Name Location Location Location 
+O O O Rating Cuisine O Location Location Location 
+O O O Rating Cuisine Cuisine 
+O O O Rating Cuisine O 
+O O O Rating Rating Cuisine Cuisine O 
+O O O Rating Rating O O O O Dish Dish Dish Location Location Location 
+O O O Price O O O Location O O 
+O O O Location Rating Rating O 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location Restaurant_Name O Location Location Location 
+O O O Location Cuisine Cuisine O 
+O O O Location Amenity Amenity 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location Amenity Amenity O 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location O O O Price Dish 
+O O O Location O O O Dish 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location O O O Cuisine O 
+O O O Location Cuisine O Cuisine O O O Dish 
+O O O Location Cuisine Cuisine O Location Location Location 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O O O O Restaurant_Name Restaurant_Name 
+O O O Location Rating Rating O 
+O O O Location Restaurant_Name Restaurant_Name Restaurant_Name 
+O O O Location Cuisine O Amenity O 
+O O O Location Amenity 
+O O O Location Cuisine O 
+O O O Location Amenity O 
+O O O Location Cuisine O O Rating Rating Rating Rating O O Price Price O O 
+O O O Location Amenity O 
+O O O Location Cuisine Cuisine O 
+O O O Location Cuisine O 
+O O O Location Cuisine O Hours Hours O Hours 
+O O O Location Restaurant_Name Restaurant_Name 
+O O O Location O O O O O Dish 
+O O O Location O O O Dish 
+O O O Location O O O Amenity Amenity 
+O O O Location O Location Location Location O O O Amenity Amenity Amenity Amenity 
+O O O Location O O O Amenity Amenity 
+O O O Location O O O Dish Dish 
+O O O Location O O O Dish 
+O O O Location O O O Amenity Amenity Amenity O 
+O O O Location O O O 
+O O O Location Cuisine Cuisine 
+O O O Location Amenity Amenity Cuisine O 
+O O O Location Cuisine O 
+O O O Location Cuisine O O O O O Location 
+O O O Location Restaurant_Name O Amenity Amenity O 
+O O O Location Location O 
+O O O Location Restaurant_Name 
+O O O O O Amenity Location Location Location Location 
+O O O Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name O Location Location O O O Cuisine 
+O O O Restaurant_Name Restaurant_Name O Location 
+O O O O Restaurant_Name O Amenity Amenity O 
+O O O O Rating Price O O Location Location Location Location O O Cuisine 
+O O O O Rating Dish Location Location O O O Amenity 
+O O Restaurant_Name Restaurant_Name 
+O O O O O O O Rating O 
+O O O O O Location Location Location Location Location 
+O O O O O O Cuisine Location Location Location 
+O O Amenity Amenity Cuisine O Location O Location Location Location 
+O Location Restaurant_Name 
+O Restaurant_Name Restaurant_Name 
+O O Rating Cuisine O Location Location Location 
+O O Location Cuisine O 
+O O Location Rating Rating O O 
+O O Location Cuisine 
+O O Location Dish O 
+O O Cuisine O Location O Hours Hours Hours 
+O O Location Restaurant_Name Restaurant_Name Restaurant_Name Restaurant_Name 
+O O Location Cuisine Cuisine Cuisine O 
+O O Location Cuisine O O O 
+O O Location Cuisine O 
+O O Location Cuisine O O O Location Location Location Location Location 
+O O Location O 
+O O Location O O O Rating Rating Rating Rating Rating O O O Dish O Price Price Price 
+O O Location O O O Amenity Amenity 
+O O Restaurant_Name Restaurant_Name O 
+O Cuisine Cuisine O O Dish Dish Dish Dish 
+O Rating Rating Cuisine O O Location O O Rating Rating 
+O Location O O Amenity Cuisine 
+O Location O O O Rating Dish 
+O O O Amenity Amenity 
+O Cuisine O O Amenity O O 
+O O O Amenity Amenity 
+O O O O O O Location Location Location O O Amenity Amenity 
+O O O O Rating Rating O O Restaurant_Name O Restaurant_Name Restaurant_Name 
+O O O O Amenity Amenity 
+O O O Dish Dish O Amenity 
+O O O Location Location O O Rating Rating 
+O O O Hours Hours O O Price O O Dish 
+O O O O Cuisine Location Location Location 
+O O O Hours Hours Hours Hours Hours Hours 
+O O Location Location Location O O Rating Cuisine 
+O O O Amenity O O 
+O O Location Location O Hours Hours Hours 
+O O O Amenity Amenity 
+O O O Dish Dish Dish Dish O O Price O 
+O Restaurant_Name Restaurant_Name O Location Location Location 
+O O O Amenity O Location Location O O Price O 
+O O Rating Dish Location Location 
+O O Amenity Amenity Hours Hours 
+O O O Rating Dish Location Location 
+O O O Rating Dish O O Amenity Amenity 
+O O O Rating Rating O Dish Dish O Dish Dish 
+O O O Rating Rating Dish 
+O O O Rating Dish Location Location 
+O O O Rating Dish Dish Location Location 
+O O Cuisine O 
+Cuisine Cuisine O Cuisine Dish Location Location Location 
+O O O O O Rating O Dish Dish O Location 
+O O O O O O O Amenity O O O O Hours 
+O Restaurant_Name Restaurant_Name O O Amenity Amenity Amenity Amenity 
+O O O O Restaurant_Name O O O Location Location Location 
+O O O Cuisine O Location Location O 
+O O O O Dish O O O O O Restaurant_Name Restaurant_Name Restaurant_Name O O
+O O O O O O Dish Dish
+
