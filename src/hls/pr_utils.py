@@ -69,7 +69,7 @@ def get_q_r_from_p(f_probs, weights, rule_classes, num_classes, C):
 	prob_q_r_eq_1 = weights * sum_over_y_term
 
 
-	prob_q_r_eq_0 = tf.reduce_sum(f_probs * pr_product_t, axis=-1, keepdims=True)
+	prob_q_r_eq_0 = tf.reduce_sum(f_probs * product_term, axis=-1)
 	prob_q_r_eq_0 = (1 - weights) * prob_q_r_eq_0
 
 	prob_q_r_eq_1 = prob_q_r_eq_1 / (prob_q_r_eq_0 + prob_q_r_eq_1)
