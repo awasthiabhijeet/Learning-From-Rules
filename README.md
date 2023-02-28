@@ -19,6 +19,7 @@ This code has been developed with
   - numpy 1.17.2
   - snorkel 0.9.1
   - tensorflow_hub 0.7.0
+  - networkx 2.3.0
 
 # Data Description
 We have currently released processed version of 4 datastes used in our paper. 
